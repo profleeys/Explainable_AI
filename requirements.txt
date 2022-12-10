@@ -1,0 +1,12 @@
+matplotlib==3.5.1
+matplotlib-inline==0.1.2
+joblib==1.1.0
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+Pillow==9.0.1
+lime==0.2.0.1
+streamlit==1.14.0
+streamlit-aggrid==0.3.3
+pandas==1.4.2
+nltk==3.7
+jieba==0.42.1
